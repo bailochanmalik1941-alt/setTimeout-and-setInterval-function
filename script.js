@@ -1,3 +1,4 @@
+//setTimeout
 let age = prompt('enter yoour age');
 if (age > 18) {
     console.log("you are seniour");
@@ -8,7 +9,7 @@ if (age > 18) {
 setTimeout(() => {
    console.log("you are a good preson ")
 }, 2000);
-
+// setInterval
 // let age = prompt('enter yoour age');
 // if (age > 18) {
 //     console.log("you are seniour");
@@ -19,4 +20,5 @@ setTimeout(() => {
 // setInterval(() => {
 //    console.log("you are a good preson ")
 // }, 3000);
+
 
